@@ -1,0 +1,19 @@
+1. Saludo: Buenas tardes profesores y compañeros
+
+2. Descipcion general de la página: aquí vemos mi página de onlyflanes, esta compuesta por un HTML base con head y body, en dónde en el body se puede ver el header, el nav con las distintos secciones de la página y más abajo ya tenemos el contenido como tal de cada sección y por último el footer.
+
+3. Caract. base del sitio:
+Inicio: podemos ver 4 flanes comunes, que los pueden ver todas las personas que accedan a esta página
+Acerca: tenemos una breve descripción de la pyme en general 
+Bienvenidos: nos arrojara los flanes privados siempre y cuando la persona inicie sesión, ejemplo.
+Contacto: tiene un formulario de contacto para que nosotros como onlyflans nos podamos comunicar con las personas y resolver sus dudas.
+La información de este formulario llega al panel de administrador de Django el cual podemos verlo con el superusuario admin admin
+
+4. Caracteristicas personalizadas:
+Se agregó atributo de recetas y su url, botón que nos manda a la receta de cada flan, esto lo puede ver cada persona según si está logeada o sea un usuario común.
+Fornmulario de comentarios y nueva vista de agradecimiento por enviar comentarios /gracias/
+ 
+5. Dificultades: 
+Formulario de comentarios sobre las recetas, no pude mostrar el cuadrito como tal del formulario
+Ordenar los temas porque me confundo en los nombres y en la relación que tiene cada uno
+Repasar css para adecuar más los estilos y que la página se vea mas bonita
